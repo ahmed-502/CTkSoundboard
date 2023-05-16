@@ -1,0 +1,4 @@
+configparser
+customtkinter
+pygame
+tkinter
